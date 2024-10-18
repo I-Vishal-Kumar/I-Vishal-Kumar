@@ -18,4 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=I-Vishal-Kumar&icon=4&color=0)](https://visitcount.itsvg.in)
 
+---
+[![An image of @skfjds's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/skfjds)](https://holopin.io/@skfjds)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
