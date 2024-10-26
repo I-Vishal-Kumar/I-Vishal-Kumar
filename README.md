@@ -15,6 +15,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=I-Vishal-Kumar&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
+[![An image of @ivishalkumar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ivishalkumar)](https://holopin.io/@ivishalkumar)
 ---
 [![](https://visitcount.itsvg.in/api?id=I-Vishal-Kumar&icon=4&color=0)](https://visitcount.itsvg.in)
 
