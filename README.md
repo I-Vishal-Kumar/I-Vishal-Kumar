@@ -1,3 +1,5 @@
+![](https://profile-counter.glitch.me/I-Vishal-Kumar/profile.svg)
+
 # 💫 About Me:
 🔭 I’m currently working on chat app that allows video/audio call's using web RTC.<br>👯 I’m looking to collaborate on JS frameworks like react or next js or some node js projects.<br>🤝 I’m looking for help with finding a good partner/colleague for mutual rapid growth.<br>🌱 I’m currently learning react native.<br>💬 Ask me about JS and how to make a website fly.<br>⚡ Fun fact I also like to do digital painting's and currently learning Japanese to flex .
 
